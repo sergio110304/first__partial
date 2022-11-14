@@ -3,6 +3,9 @@ class Tablero:
         self.minas = minas
         self.numeros = numeros
 
+    ## Esta vaina no sirve
+    
+    
 class Numeros: 
     def alrededor(self):
         pass
