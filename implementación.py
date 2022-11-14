@@ -1,10 +1,7 @@
 class Tablero: 
     def __init__(self, minas:str, numeros:str):
         self.minas = minas
-        self.numeros = numeros
-
-    ## Esta vaina no sirve
-    
+        self.numeros = numeros    
     
 class Numeros: 
     def alrededor(self):
